@@ -1,6 +1,6 @@
 ---
 title: 'Change Infomation'
-date: 2026-11-28
+date: 2026-11-08
 permalink: /posts/2026/11/change-infomation/
 tags:
   - change
