@@ -1,5 +1,5 @@
 ---
-title: 'Hello'
+title: 'Hello PKNU'
 date: 2026-11-10
 permalink: /posts/2026/11/hello-pknu/
 tags:
