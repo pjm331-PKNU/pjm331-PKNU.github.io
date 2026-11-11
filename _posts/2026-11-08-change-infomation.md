@@ -1,7 +1,7 @@
 ---
 title: 'Change Infomation'
 date: 2026-11-28
-permalink: /posts/2013/08/blog-post-2/
+permalink: /posts/2026/11/change-infomation/
 tags:
   - change
   - information
