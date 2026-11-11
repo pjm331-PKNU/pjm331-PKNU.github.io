@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Jaemin Park / OpenSource"
 title_separator          : "-"
 name                     : &name "Jaemin Park"
 description              : &description "Jaemin Park's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -27,10 +27,10 @@ author:
   name             : "Jaemin Park"
   pronouns         : # example: "she/her"  
   bio              : "Hello"
-  location         : "Busan"
+  location         : "Busan, S.Korea"
   employer         : "PKNU"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jaemin6194@gmail.com" 
 
   # Academic websites
   academia         : # URL
