@@ -1,5 +1,5 @@
 ---
-title: 'Chnage Profile Image'
+title: 'Change Profile Image'
 date: 2026-11-10
 permalink: /posts/2026/11/change-profile-image/
 tags:
