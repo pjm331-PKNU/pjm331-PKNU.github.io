@@ -8,4 +8,4 @@ tags:
   - OpenSource
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+안녕하세요. 처음 올린 포스트
