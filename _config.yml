@@ -23,7 +23,7 @@ repository               : "pjm331-PKNU.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cutty.png"
+  avatar           : "/cutty.png"
   name             : "Jaemin Park"
   pronouns         : # example: "she/her"  
   bio              : "Hello, bros"
